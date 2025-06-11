@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Sakir Saiyed</h1>
-<h3 align="center">🚀 iOS Developer | 🧠 Lifelong Learner | 🌍 Based in Calgary, Canada</h3>
+<h1 align="center">Hi, I'm Sakir Saiyed</h1>
+<h3 align="center"> iOS Developer | Lifelong Learner | Based in Calgary, Canada</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00B6F1&center=true&vCenter=true&width=450&lines=Swift+%7C+iOS+%7C+SwiftUI+%7C+Combine;Learning+DSA+%26+building+side+projects" alt="Typing SVG" />
 </p>
 
-### ✨ About Me 
+### About Me 
 
 I am Sakir Saiyed, an iOS Developer with over a decade of experience crafting intuitive, reliable, and efficient mobile applications. With a strong foundation in Swift, SwiftUI, and iOS architecture patterns, I’ve built a career focused on delivering quality user experiences that scale.
 
