@@ -5,6 +5,18 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00B6F1&center=true&vCenter=true&width=450&lines=Swift+%7C+iOS+%7C+SwiftUI+%7C+Combine;Learning+DSA+%26+building+side+projects" alt="Typing SVG" />
 </p>
 
+### ✨ About Me 
+
+I am Sakir Saiyed, an iOS Developer with over a decade of experience crafting intuitive, reliable, and efficient mobile applications. With a strong foundation in Swift, SwiftUI, and iOS architecture patterns, I’ve built a career focused on delivering quality user experiences that scale.
+
+I believe that technology, especially mobile computing, is at the heart of meaningful innovation in nearly every industry. I’ve spent years sharpening my software skills while also growing in communication, teamwork, and problem-solving.
+
+I consider myself highly focused and purpose-driven — someone who works with intention and persistence toward meaningful goals. I'm a constant learner, always exploring new tools and frameworks, and I embrace both technical challenges and opportunities for personal growth.
+
+What keeps me going is the passion for building — whether it's crafting an elegant user interface, solving a tough algorithmic problem, or working with a team to ship something impactful. I'm calm under pressure, optimistic in uncertainty, and deeply committed to improving every single day.
+
+I genuinely enjoy what I do — and I do it with a balance of discipline, curiosity, and creativity.
+
 ---
 
 - 🔭 Currently working on **Swift-based iOS apps with Swift + Combine + MVVM + CLEAN Architecture**
