@@ -23,7 +23,6 @@ I genuinely enjoy what I do — and I do it with a balance of discipline, curios
 - 🌱 Learning **Data Structures, Algorithms, and Interview Patterns**
 - 🧠 Exploring **AI in Mobile Apps** and **Innovative AI Technologies**
 - 💼 Currently pursuing **AI Integrated couse** @ SAIT, Calgary
-- ⚡ Fun fact: I once solo-traveled to **Kasol** and wrote about it [here](https://www.tripoto.com/trip/kasol-you-are-never-alone-when-you-travel-with-nature-walk-with-me-to-my-first-solo-journey-5c5e6e3a1d67c)
 
 ---
 
