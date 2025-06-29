@@ -22,7 +22,6 @@ I genuinely enjoy what I do — and I do it with a balance of discipline, curios
 - Currently working on **Swift-based iOS apps with Swift + Combine + MVVM + CLEAN Architecture**
 - Learning **Data Structures, Algorithms, and Interview Patterns**
 - Exploring **AI in Mobile Apps** and **Innovative AI Technologies**
-- Currently pursuing **AI Integrated couse** @ SAIT, Calgary
 
 ---
 
