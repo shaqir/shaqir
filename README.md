@@ -48,4 +48,4 @@ I genuinely enjoy what I do — and I do it with a balance of discipline, curios
 
 ---
 
-<p align="center">“You are never alone when you travel with nature.” 🌲</p>
+<p align="center">“You are never alone when you travel with nature.”</p>
