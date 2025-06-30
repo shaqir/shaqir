@@ -39,21 +39,6 @@ I genuinely enjoy what I do — and I do it with a balance of discipline, curios
   <img src="https://img.shields.io/badge/CocoaPods-E95420?style=for-the-badge&logo=appveyor"/>
 </p>
 
----
-
-<h2>📈 GitHub Stats</h2>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sakirsaiyed&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sakirsaiyed&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=sakirsaiyed&theme=github-compact&hide_border=true"/>
-</p>
-
----
-
 <h2>📫 Let's Connect</h2>
 
 <p>
