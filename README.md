@@ -35,7 +35,6 @@ I genuinely enjoy what I do — and I do it with a balance of discipline, curios
   <img src="https://img.shields.io/badge/Combine-FF6F61?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/CoreData-4E4E50?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
   <img src="https://img.shields.io/badge/CocoaPods-E95420?style=for-the-badge&logo=appveyor"/>
 </p>
 
