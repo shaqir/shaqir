@@ -19,9 +19,22 @@ I genuinely enjoy what I do — and I do it with a balance of discipline, curios
 
 ---
 
-- Currently working on **Swift-based iOS apps with Swift + Combine + MVVM + CLEAN Architecture**
-- Learning **Data Structures, Algorithms, and Interview Patterns**
-- Exploring **AI in Mobile Apps** and **Innovative AI Technologies**
+### Core Stack
+```
+Mobile    → Swift · SwiftUI · Flutter · Combine · Async/Await
+AI/ML     → Python · scikit-learn · CoreML · Pandas · SQL
+Arch      → Clean · MVVM · Modular · BLE · GraphQL · CI/CD
+```
+
+### What I'm Building Toward
+Roles where mobile expertise meets AI product thinking — 
+on-device inference, intelligent UX, real-time ML pipelines.
+
+---
+
+> Currently: AI & Data Science @ SAIT Calgary (April 2026)  
+> Open to: Senior iOS · AI Engineer · Mobile Tech Lead roles  
+
 
 ---
 
