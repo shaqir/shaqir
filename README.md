@@ -66,7 +66,7 @@ Built a cross-platform mobile app that connects to Bluetooth Low Energy devices 
 
 - **AI & Data Science Certification · SAIT Calgary · April 2026**
 - Focus: Predictive Analytics · Responsible AI · Human-Centred Design
-- Building: [current project]
+- Building: AI Focused mobile and web apps.
 
 ---
 
