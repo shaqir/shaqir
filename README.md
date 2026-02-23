@@ -72,7 +72,7 @@ Built a cross-platform mobile app that connects to Bluetooth Low Energy devices 
 
 ## Open To
 
-**Senior iOS · AI Engineer · Mobile Tech Lead**
+**Senior iOS · AI Engineer · Mobile Tech Lead** |
 Healthcare · FinTech · Energy
 
 <p>
