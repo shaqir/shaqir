@@ -25,8 +25,8 @@ to a clinical environment where precision is non-negotiable.
 ```
 Mobile  →  Swift · SwiftUI · UIKit · Flutter/Dart · Combine · Async/Await
 AI/ML   →  Python · scikit-learn · CoreML · Pandas · SQL
-Arch    →  Clean Architecture · MVVM · Modular · TCA
-Infra   →  GraphQL · REST · BLE · Firebase · CI/CD · Xcode Cloud
+Arch    →  Clean Architecture · MVVM · Modular 
+Infra   →  GraphQL · REST · BLE · Firebase · CI/CD · Xcode . VSCode 
 ```
 
 ---
