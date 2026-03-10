@@ -14,8 +14,7 @@ Delivered 15+ products across healthcare, finance, IoT, and e-commerce —
 owning architecture, leading teams, and driving releases from
 whiteboard to App Store.
 
-Most recent: engineered an AI-powered emergency triage system achieving
-**91.7% patient classification accuracy** — production-grade ML applied
+Most recent: engineered an AI-powered emergency triage system — production-grade ML applied
 to a clinical environment where precision is non-negotiable.
 
 ---
