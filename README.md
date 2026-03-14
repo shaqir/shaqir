@@ -15,30 +15,52 @@ Based in Calgary, Alberta, Canada (UTC -7).
 
 ---
 
-## Stack
+## Tech Stack
 
-```
-Mobile      Swift · SwiftUI · UIKit · Flutter/Dart · Combine · Async/Await
-AI/ML       Python · scikit-learn · CoreML · Pandas · SQL · LangChain
-Arch        Clean Architecture · MVVM · Modular Design · TCA
-Infra       GraphQL · REST · BLE · Firebase · CI/CD · Xcode · VSCode
-```
-
----
-
-## Badges
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SwiftUI-46C4F1?style=for-the-badge&logo=swift&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CoreML-000000?style=for-the-badge&logo=apple&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-</p>
+<table>
+  <tr>
+    <td align="center" width="140"><b>Mobile</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SwiftUI-46C4F1?style=flat-square&logo=swift&logoColor=white"/>
+      <img src="https://img.shields.io/badge/UIKit-000000?style=flat-square&logo=apple&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Combine-F05138?style=flat-square&logo=swift&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Async%2FAwait-F05138?style=flat-square&logo=swift&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>AI / ML</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CoreML-000000?style=flat-square&logo=apple&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Architecture</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Clean_Architecture-6DB33F?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MVVM-8B5CF6?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Modular_Design-0EA5E9?style=flat-square&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Infra & Tools</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+      <img src="https://img.shields.io/badge/BLE-0082FC?style=flat-square&logo=bluetooth&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+      <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Xcode-1575F9?style=flat-square&logo=xcode&logoColor=white"/>
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -46,7 +68,6 @@ Infra       GraphQL · REST · BLE · Firebase · CI/CD · Xcode · VSCode
 
 ### AI Emergency Triage System · Python · scikit-learn · Healthcare
 
-- **91.7% patient classification accuracy** across urgency categories
 - End-to-end ML pipeline: data ingestion, preprocessing, model training, evaluation
 - Clinical-grade precision requirements — built for real healthcare environments, not a toy project
 - Tech: Python, scikit-learn, Pandas, SQL
