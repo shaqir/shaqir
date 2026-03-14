@@ -1,8 +1,8 @@
 <h1 align="center">Sakir Saiyed</h1>
-<h3 align="center">Senior iOS & AI Engineer · 10+ Years Production Experience</h3>
+<h3 align="center">Senior iOS & AI Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00B6F1&center=true&vCenter=true&width=600&lines=End-to-End+AI+Systems+for+Mobile+%26+Web;10%2B+Years+Shipping+Production+Applications;Healthcare+%C2%B7+FinTech+%C2%B7+Energy" alt="Typing SVG" />
+  <code>Swift</code> · <code>SwiftUI</code> · <code>Python</code> · <code>Machine Learning</code> · <code>Clean Architecture</code>
 </p>
 
 ---
@@ -11,7 +11,7 @@ Senior iOS developer and AI engineer with 10+ years shipping production apps to 
 
 Now designing and building end-to-end AI and machine learning systems for mobile and web, with a focus on healthcare tech and cross-platform solutions. Most recent: engineered an AI-powered emergency triage system — production-grade ML applied to a clinical environment where precision is non-negotiable.
 
-Based in Calgary, Alberta, Canada (UTC -7).
+Based in Calgary, Alberta, Canada.
 
 ---
 
@@ -45,6 +45,8 @@ Based in Calgary, Alberta, Canada (UTC -7).
     <td>
       <img src="https://img.shields.io/badge/Clean_Architecture-6DB33F?style=flat-square&logoColor=white"/>
       <img src="https://img.shields.io/badge/MVVM-8B5CF6?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MVP-0EA5E9?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/VIPER-E11D48?style=flat-square&logoColor=white"/>
       <img src="https://img.shields.io/badge/Modular_Design-0EA5E9?style=flat-square&logoColor=white"/>
     </td>
   </tr>
@@ -66,17 +68,17 @@ Based in Calgary, Alberta, Canada (UTC -7).
 
 ## Featured Projects
 
-### SympDirect — AI Emergency Triage System · Python · scikit-learn · Healthcare
-
-- End-to-end ML pipeline: data ingestion, preprocessing, model training, evaluation
-- 7-layer safety gate with NLP entity extraction and clinical rule engine
-- Tech: Python, FastAPI, scikit-learn, React, Tailwind
-
 ### [iStocks — Watchlist & Trading Companion](https://github.com/shaqir/iStocks) · Swift · SwiftUI
 
-- Real-time stock price tracking via WebSocket with reconnection/backoff
+- Real-time stock price tracking via WebSocket with reconnection and backoff
 - MVVM + Clean Architecture with SwiftData persistence layer
 - Tech: Swift, SwiftUI, Combine, WebSocket, REST APIs
+
+### [iOS Architectures — Pattern Comparison](https://github.com/shaqir/iOS-Architectures) · Swift · UIKit · SwiftUI
+
+- Side-by-side implementation of MVC, MVVM, MVP, VIPER, and Clean Architecture
+- Same domain logic across all five patterns — demonstrates tradeoffs in testability, coupling, and scalability
+- Tech: Swift, UIKit, SwiftUI, Combine, dependency injection
 
 ### [Watson in the Ward — Healthcare AI Chat](https://github.com/shaqir/react-lmstudio-demo) · React · LM Studio
 
