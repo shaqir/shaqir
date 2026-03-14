@@ -66,25 +66,23 @@ Based in Calgary, Alberta, Canada (UTC -7).
 
 ## Featured Projects
 
-### AI Emergency Triage System · Python · scikit-learn · Healthcare
+### [SympDirect — AI Emergency Triage System](https://github.com/shaqir/sympdirect-capstone) · Python · scikit-learn · Healthcare
 
 - End-to-end ML pipeline: data ingestion, preprocessing, model training, evaluation
-- Clinical-grade precision requirements — built for real healthcare environments, not a toy project
-- Tech: Python, scikit-learn, Pandas, SQL
+- 7-layer safety gate with NLP entity extraction and clinical rule engine
+- Tech: Python, FastAPI, scikit-learn, React, Tailwind
 
-### iStocks — Watchlist & Trading Companion · Swift · SwiftUI
+### [iStocks — Watchlist & Trading Companion](https://github.com/shaqir/iStocks) · Swift · SwiftUI
 
-- Real-time stock price tracking with live data integration
-- MVVM + Clean Architecture with full persistence layer
-- Responsive, production-quality iOS development with modern Swift patterns
-- Tech: Swift, SwiftUI, Combine, REST APIs
+- Real-time stock price tracking via WebSocket with reconnection/backoff
+- MVVM + Clean Architecture with SwiftData persistence layer
+- Tech: Swift, SwiftUI, Combine, WebSocket, REST APIs
 
-### BLE Device Monitor · Flutter · Dart
+### [Watson in the Ward — Healthcare AI Chat](https://github.com/shaqir/react-lmstudio-demo) · React · LM Studio
 
-- Cross-platform mobile app connecting to Bluetooth Low Energy devices
-- Live sensor data visualization with reliable device discovery and connection management
-- Real-time updates across iOS and Android from a single codebase
-- Tech: Flutter, Dart, BLE stack
+- 7-layer safety architecture: injection protection, emergency detection, output filtering
+- Local LLM integration via LM Studio with audit logging
+- Tech: React, JavaScript, LM Studio API
 
 ---
 
@@ -114,24 +112,22 @@ Based in Calgary, Alberta, Canada (UTC -7).
 
 ## Open To
 
-**Senior iOS · AI Engineer · Mobile Tech Lead — Contract Roles**
+**Senior iOS · AI Engineer · Mobile Tech Lead — Contract Roles ($80–140/hr)**
 Healthcare · FinTech · Energy
 
-Available as a senior engineer or contractor for iOS development, AI engineering, and mobile architecture projects. Experienced with production apps, App Store delivery, and cross-platform development.
+Available for contract iOS development, AI engineering, and mobile architecture projects. 10+ years of production apps, App Store delivery, and cross-platform development.
 
----
-
-## Connect
+**Interested? Reach out directly:**
 
 <p>
   <a href="mailto:sakirsaiyed29@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/sakir-saiyed-57387762/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://sakirsaiyed.com">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=safari&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=safari&logoColor=white"/>
   </a>
   <a href="https://medium.com/@sakirsaiyed29">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
