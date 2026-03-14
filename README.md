@@ -66,7 +66,7 @@ Based in Calgary, Alberta, Canada (UTC -7).
 
 ## Featured Projects
 
-### [SympDirect — AI Emergency Triage System](https://github.com/shaqir/sympdirect-capstone) · Python · scikit-learn · Healthcare
+### SympDirect — AI Emergency Triage System · Python · scikit-learn · Healthcare
 
 - End-to-end ML pipeline: data ingestion, preprocessing, model training, evaluation
 - 7-layer safety gate with NLP entity extraction and clinical rule engine
