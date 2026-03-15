@@ -68,23 +68,41 @@ Based in Calgary, Alberta, Canada.
 
 ## Featured Projects
 
-### [iStocks — Watchlist & Trading Companion](https://github.com/shaqir/iStocks) · Swift · SwiftUI
+### [iStocks — Production Stock Tracking App](https://github.com/shaqir/iStocks) · Swift · SwiftUI
 
-- Real-time stock price tracking via WebSocket with reconnection and backoff
-- MVVM + Clean Architecture with SwiftData persistence layer
-- Tech: Swift, SwiftUI, Combine, WebSocket, REST APIs
+- SwiftUI + Combine + Clean Architecture + MVVM with CI/CD pipeline
+- Real-time stock price tracking with unit testing and GitHub Actions
+- Tech: Swift, SwiftUI, Combine, Clean Architecture, MVVM
 
-### [iOS Architectures — Architecture Showcase](https://github.com/shaqir/iOS-Architectures) · Swift · UIKit · SwiftUI
+### [Concurrency-Swift — Swift Concurrency Patterns](https://github.com/shaqir/Concurrency-Swift) · Swift · SwiftUI
 
-- Side-by-side implementation of MVC, MVVM, MVP, VIPER, and Clean Architecture
-- Same domain logic across all five patterns — demonstrates tradeoffs in testability, coupling, and scalability
-- Tech: Swift, UIKit, SwiftUI, Combine, dependency injection
+- async/await, actors, task groups, Sendable, and structured concurrency with real-world networking
+- Production patterns for concurrency — rate limiting, task cancellation, MainActor isolation
+- Tech: Swift, SwiftUI, Combine, async/await, actors, structured concurrency
 
-### [Watson in the Ward — Healthcare AI Safety System](https://github.com/shaqir/healthcare-ai-safety) · React · LM Studio
+### [Racecourse-Flutter — Production Flutter App](https://github.com/shaqir/Racecourse-Flutter) · Flutter · Dart
 
-- 7-layer safety architecture: injection protection, emergency detection, output filtering
-- Local LLM integration via LM Studio with audit logging
-- Tech: React, JavaScript, LM Studio API
+- Production Flutter app for racecourse insights with Firebase backend
+- Apple Sign In, Firestore, provider state management
+- Tech: Flutter, Dart, Firebase, Firestore, Apple Sign In
+
+### [iOS-Architectures — Architecture Showcase](https://github.com/shaqir/iOS-Architectures) · Swift · UIKit · SwiftUI
+
+- MVC, MVVM, MVP, VIPER, and Clean Architecture implemented side-by-side with the same domain logic
+- Demonstrates tradeoffs in testability, coupling, and scalability across patterns
+- Tech: Swift, UIKit, SwiftUI, Clean Architecture, design patterns
+
+### [SwiftUI-Storefront — Modular E-Commerce App](https://github.com/shaqir/SwiftUI-Storefront) · Swift · SwiftUI
+
+- Modular e-commerce iOS app with MVVM + Coordinator pattern
+- Swift Package Manager API layer for clean dependency management
+- Tech: Swift, SwiftUI, MVVM, Coordinator pattern, SPM
+
+### [Healthcare AI Safety — Medical AI Safety System](https://github.com/shaqir/healthcare-ai-safety) · React · JavaScript
+
+- 7-layer safety architecture with prompt injection detection and medical boundary enforcement
+- Local LLM integration with audit logging for clinical environments
+- Tech: React, JavaScript, LLM, AI safety
 
 ---
 
