@@ -74,13 +74,13 @@ Based in Calgary, Alberta, Canada.
 - MVVM + Clean Architecture with SwiftData persistence layer
 - Tech: Swift, SwiftUI, Combine, WebSocket, REST APIs
 
-### [iOS Architectures — Pattern Comparison](https://github.com/shaqir/iOS-Architectures) · Swift · UIKit · SwiftUI
+### [iOS Architectures — Architecture Showcase](https://github.com/shaqir/iOS-Architectures) · Swift · UIKit · SwiftUI
 
 - Side-by-side implementation of MVC, MVVM, MVP, VIPER, and Clean Architecture
 - Same domain logic across all five patterns — demonstrates tradeoffs in testability, coupling, and scalability
 - Tech: Swift, UIKit, SwiftUI, Combine, dependency injection
 
-### [Watson in the Ward — Healthcare AI Chat](https://github.com/shaqir/react-lmstudio-demo) · React · LM Studio
+### [Watson in the Ward — Healthcare AI Safety System](https://github.com/shaqir/healthcare-ai-safety) · React · LM Studio
 
 - 7-layer safety architecture: injection protection, emergency detection, output filtering
 - Local LLM integration via LM Studio with audit logging
