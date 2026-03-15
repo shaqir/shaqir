@@ -1,5 +1,17 @@
 
+# macOS
+.DS_Store
+
 # AI assistant config
 CLAUDE.md
 AGENTS.md
 .claude/
+
+# Nested git repos (each has its own remote — push from within each)
+Racecourse-Flutter/
+predictive-analytics-machine-learning-demos/
+react-lmstudio-demo/
+sakir-portfolio-website/
+sakiralisaiyed.github.io/
+shaqir/
+sympdirect-capstone/
