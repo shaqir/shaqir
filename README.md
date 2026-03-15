@@ -70,9 +70,9 @@ Based in Calgary, Alberta, Canada.
 
 ### [iStocks — Production Stock Tracking App](https://github.com/shaqir/iStocks) · Swift · SwiftUI
 
-- SwiftUI + Combine + Clean Architecture + MVVM with CI/CD pipeline
-- Real-time stock price tracking with unit testing and GitHub Actions
-- Tech: Swift, SwiftUI, Combine, Clean Architecture, MVVM
+- Clean Architecture + MVVM with multiple watchlists, P&L tracking, and offline mock mode
+- Real-time price updates via WebSocket/REST with SwiftData persistence
+- Tech: Swift, SwiftUI, Combine, Clean Architecture, MVVM, SwiftData
 
 ### [Concurrency-Swift — Swift Concurrency Patterns](https://github.com/shaqir/Concurrency-Swift) · Swift · SwiftUI
 
@@ -80,11 +80,11 @@ Based in Calgary, Alberta, Canada.
 - Production patterns for concurrency — rate limiting, task cancellation, MainActor isolation
 - Tech: Swift, SwiftUI, Combine, async/await, actors, structured concurrency
 
-### [Racecourse-Flutter — Production Flutter App](https://github.com/shaqir/Racecourse-Flutter) · Flutter · Dart
+### [Racecourse-Flutter — Racing Analytics Platform](https://github.com/shaqir/Racecourse-Flutter) · Flutter · Dart
 
-- Production Flutter app for racecourse insights with Firebase backend
-- Apple Sign In, Firestore, provider state management
-- Tech: Flutter, Dart, Firebase, Firestore, Apple Sign In
+- Production app for the racing industry — course comparison, strategic scenarios, track analytics
+- Firebase backend with Apple/Google Sign In, RevenueCat subscriptions, and provider state management
+- Tech: Flutter, Dart, Firebase, Firestore, RevenueCat, Provider
 
 ### [iOS-Architectures — Architecture Showcase](https://github.com/shaqir/iOS-Architectures) · Swift · UIKit · SwiftUI
 
@@ -92,17 +92,17 @@ Based in Calgary, Alberta, Canada.
 - Demonstrates tradeoffs in testability, coupling, and scalability across patterns
 - Tech: Swift, UIKit, SwiftUI, Clean Architecture, design patterns
 
-### [SwiftUI-Storefront — Modular E-Commerce App](https://github.com/shaqir/SwiftUI-Storefront) · Swift · SwiftUI
+### [SwiftUI-Storefront — E-Commerce iOS App](https://github.com/shaqir/SwiftUI-Storefront) · Swift · SwiftUI
 
-- Modular e-commerce iOS app with MVVM + Coordinator pattern
-- Swift Package Manager API layer for clean dependency management
-- Tech: Swift, SwiftUI, MVVM, Coordinator pattern, SPM
+- Shopping app with product listing, search, favorites, and cart using DummyJSON API
+- MVVM architecture with programmatic navigation and SwiftUI
+- Tech: Swift, SwiftUI, MVVM, REST API, UserDefaults
 
-### [Healthcare AI Safety — Medical AI Safety System](https://github.com/shaqir/healthcare-ai-safety) · React · JavaScript
+### [Healthcare AI Safety — Medical AI Safety System](https://github.com/shaqir/healthcare-ai-safety) · React · LM Studio
 
-- 7-layer safety architecture with prompt injection detection and medical boundary enforcement
-- Local LLM integration with audit logging for clinical environments
-- Tech: React, JavaScript, LLM, AI safety
+- 7-layer safety architecture with prompt injection detection, emergency detection, and medical boundary enforcement
+- Runs fully local via LM Studio — no cloud APIs — with audit logging and rate limiting
+- Tech: React, JavaScript, LM Studio, local LLM, AI safety
 
 ---
 
