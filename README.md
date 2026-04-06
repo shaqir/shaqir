@@ -132,7 +132,7 @@ Based in Calgary, Alberta, Canada.
 
 ## Open To
 
-**Senior iOS · AI Engineer · Mobile Tech Lead — Contract Roles ($80–140/hr)**
+**Senior iOS · AI Engineer · Mobile Tech Lead — Contract Roles**
 Healthcare · FinTech · Energy
 
 Available for contract iOS development, AI engineering, and mobile architecture projects. 10+ years of production apps, App Store delivery, and cross-platform development.
@@ -146,7 +146,7 @@ Available for contract iOS development, AI engineering, and mobile architecture 
   <a href="https://www.linkedin.com/in/sakir-saiyed-57387762/">
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://sakirsaiyed.com">
+  <a href="https://sakiralisaiyed.com">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=safari&logoColor=white"/>
   </a>
   <a href="https://medium.com/@sakirsaiyed29">
