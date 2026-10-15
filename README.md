@@ -6,7 +6,7 @@
 
 Recently completed an **AI & Data Science program at SAIT (Calgary)**, where I build on-device and full-stack AI/ML systems. I bring that to iOS through **CoreML and ML-assisted features** — a differentiator on top of a deep native foundation, not a pivot away from it.
 
-📍 Calgary, Alberta, Canada · 🇨🇦 Open Work Permit (full-time eligible)
+📍 Toronto, Ontario, Canada · 🇨🇦 Open Work Permit (full-time eligible)
 🔗 [sakiralisaiyed.com](https://sakiralisaiyed.com) · [LinkedIn](https://www.linkedin.com/in/sakir-saiyed-57387762/) · [Medium](https://medium.com/@sakirsaiyed29) · 📧 sakirsaiyed29@gmail.com
 
 ---
@@ -71,6 +71,6 @@ Applying CoreML and ML integration to native iOS apps.
 **Senior iOS Engineer · Mobile Tech Lead — full-time**
 FinTech · Healthcare · Energy · Enterprise mobile
 
-10+ years of production iOS, end-to-end App Store delivery, and team leadership. Based in Calgary, open to full-time roles across Canada.
+10+ years of production iOS, end-to-end App Store delivery, and team leadership. Based in Toronto, open to full-time roles across Canada.
 
 📧 **sakirsaiyed29@gmail.com** · [LinkedIn](https://www.linkedin.com/in/sakir-saiyed-57387762/)
