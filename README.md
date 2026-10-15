@@ -4,7 +4,7 @@
 
 **10+ years shipping production iOS apps to the App Store** across FinTech, IoT, healthcare, and e-commerce — owning mobile architecture, leading code quality and reviews, and driving releases from whiteboard to production.
 
-Recently completed an **AI & Data Science program at SAIT (Calgary)**, where I build on-device and full-stack AI/ML systems. I bring that to iOS through **CoreML and ML-assisted features** — a differentiator on top of a deep native foundation, not a pivot away from it.
+Recently completed an **Integrated Artificial Intelligence post-diploma certificate at SAIT (Calgary)**, where I build on-device and full-stack AI/ML systems. I bring that to iOS through **CoreML and ML-assisted features** — a differentiator on top of a deep native foundation, not a pivot away from it.
 
 📍 Toronto, Ontario, Canada · 🇨🇦 Open Work Permit (full-time eligible)
 🔗 [sakiralisaiyed.com](https://sakiralisaiyed.com) · [LinkedIn](https://www.linkedin.com/in/sakir-saiyed-57387762/) · [Medium](https://medium.com/@sakirsaiyed29) · 📧 sakirsaiyed29@gmail.com
@@ -60,7 +60,7 @@ Cross-platform racing-analytics app — course comparison, strategic scenarios, 
 
 ## 🎓 Currently
 
-**AI & Data Science Certification — SAIT, Calgary** *(completed April 2026)*
+**Integrated Artificial Intelligence — Post-Diploma Certificate · SAIT, Calgary** *(completed April 2026)*
 Focus: Predictive Analytics · Responsible AI · Human-Centred Design
 Applying CoreML and ML integration to native iOS apps.
 
