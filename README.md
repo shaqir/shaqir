@@ -7,7 +7,7 @@
 Recently completed an **Integrated Artificial Intelligence post-diploma certificate at SAIT (Calgary)**, where I build on-device and full-stack AI/ML systems. I bring that to iOS through **CoreML and ML-assisted features** — a differentiator on top of a deep native foundation, not a pivot away from it.
 
 📍 Toronto, Ontario, Canada · 🇨🇦 Open Work Permit (full-time eligible)
-🔗 [sakiralisaiyed.com](https://sakiralisaiyed.com) · [LinkedIn](https://www.linkedin.com/in/sakir-saiyed-57387762/) · [Medium](https://medium.com/@sakirsaiyed29) · 📧 sakirsaiyed29@gmail.com
+🔗 [sakiralisaiyed.com](https://sakiralisaiyed.com) · 📄 [Resume](Sakir_Saiyed_Senior_iOS_Engineer_Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/sakir-saiyed-57387762/) · [Medium](https://medium.com/@sakirsaiyed29) · 📧 sakirsaiyed29@gmail.com
 
 ---
 
